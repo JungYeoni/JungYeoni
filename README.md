@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=JungYeoni%20%20&descAlign=60&textBg=false)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=600&lines=Hi+I'm+Jungyeon!;Data+Science+%2B+AI+Engineer+Wannabe;Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
-## ⏰ Coding Stats
-[![Code Time](https://wakatime.com/badge/user/f6ca148b-3dfc-4885-b20f-19d2f3eab821.svg)](https://wakatime.com/@f6ca148b-3dfc-4885-b20f-19d2f3eab821)
+
 <!--
 **JungYeoni/JungYeoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +18,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyeoni)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeoni&layout=compact)
 
+
+
+## ⏰ Coding Stats
+[![Code Time](https://wakatime.com/badge/user/f6ca148b-3dfc-4885-b20f-19d2f3eab821.svg)](https://wakatime.com/@f6ca148b-3dfc-4885-b20f-19d2f3eab821)
 -->

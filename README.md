@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeoni&layout=compact)
 
 -->
-### ⏱ Wakatime Stats
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=<YOUR_WAKATIME_USERNAME>)](https://wakatime.com/@<YOUR_WAKATIME_USERNAME>)

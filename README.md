@@ -1,4 +1,4 @@
-# I'm Jeongyeon Lee
+# I'm Jungyeon Lee
 
 ### 🧑‍💻 About Me
 - 🎓 Undergraduate at **Sejong University** (Data Science & Economics)

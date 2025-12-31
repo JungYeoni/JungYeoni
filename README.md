@@ -1,25 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=JungYeoni%20%20&descAlign=60&textBg=false)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=600&lines=Hi+I'm+Jungyeon!;Data+Science+%2B+AI+Engineer+Wannabe;Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
+# I'm Jeongyeon Lee
 
-<!--
-**JungYeoni/JungYeoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 About Me
+- 🎓 Undergraduate at **Sejong University** (Data Science & Economics)
+- 🧠 Interested in **Machine Learning** and **Deep Learning**
+- 🔭 Currently exploring **Generative Models** and data-driven problem formulation
+- 🌱 Actively learning **PyTorch** and advanced **Machine Learning** techniques
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyeoni)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeoni&layout=compact)
-
-
-
-## ⏰ Coding Stats
-[![Code Time](https://wakatime.com/badge/user/f6ca148b-3dfc-4885-b20f-19d2f3eab821.svg)](https://wakatime.com/@f6ca148b-3dfc-4885-b20f-19d2f3eab821)
--->
+<br>

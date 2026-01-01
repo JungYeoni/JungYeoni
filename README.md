@@ -8,6 +8,7 @@
 
 <br>
 
+
 ### 🛠️ Tech Stack
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -18,3 +19,5 @@
 </div>
 
 <br>
+
+<div align=""> For detailed information, please refer to my <a href="https://thorn-slipper-d4c.notion.site/Lee-Jung-Yeon-2dbc123dde4680dc88b9d20c66b60abc?source=copy_link">Notion</a>🤗 </div>

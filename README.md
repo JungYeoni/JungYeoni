@@ -3,7 +3,7 @@
 ### 🧑‍💻 About Me
 - 🎓 Undergraduate at **Sejong University** (Data Science & Economics)
 - 🧠 Interested in **Machine Learning** and **Deep Learning**
-- 🔭 Currently exploring **Generative Models** and data-driven problem formulation
+- 🔭 Strong interest in data analysis and translating real-world problems into data-driven solutions
 - 🌱 Actively learning **PyTorch** and advanced **Machine Learning** techniques
 
 <br>

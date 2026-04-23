@@ -18,6 +18,15 @@
 
 ### ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     1 hr 25 mins          ███████████▓░░░░░░░░░░░░░   46.09 %
+Other        43 mins               ██████░░░░░░░░░░░░░░░░░░░   23.46 %
+Python       25 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Bash         23 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+YAML         4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+```
+
 <!--END_SECTION:waka-->
 <br>
 

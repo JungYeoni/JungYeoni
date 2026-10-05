@@ -33,13 +33,6 @@
 </div>
 <br>
 
-### 📊 GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=JungYeoni&show_icons=true&theme=default&hide_border=true" height="165">
-  <img src="https://streak-stats.demolab.com?user=JungYeoni&hide_border=true" height="165">
-</div>
-<br>
-
 ### 📝 Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=woolljy&limit=1)](https://velog.io/@woolljy/posts)
 <br>
